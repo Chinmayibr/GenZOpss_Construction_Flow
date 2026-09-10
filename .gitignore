@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Test output
+Reports/
+artifacts/
+allure-results/
+allure-report/
+allure-report-single/
+allure-history/
+auth.json
+
+# IDE
+.idea/
+
+# Log files
+*.log

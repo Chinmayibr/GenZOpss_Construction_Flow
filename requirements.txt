@@ -1,0 +1,12 @@
+# Browser automation
+playwright==1.61.0
+
+# Test runner + the `page` fixture
+pytest==9.1.1
+pytest-playwright==0.8.0
+
+# Excel test data
+openpyxl==3.1.5
+
+# Reporting
+allure-pytest==2.16.0
